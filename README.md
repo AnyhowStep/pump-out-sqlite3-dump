@@ -107,6 +107,9 @@ And that's the easy part, which takes less than a minute.
 
 The time-consuming part is Haru-kaze, myself, and other contributors collecting information about the patches as they are released, and performing manual data entry. This process may take days (or even weeks?).
 
+Doing this for **7 years** has been a real pain. I hope you never have to experience this.
+If you're already doing this to yourself, you deserve it. You masochist.
+
 -----
 
 ### Installation and Usage
