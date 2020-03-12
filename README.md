@@ -121,12 +121,15 @@ you may use this Playground I built for a different project,
 https://anyhowstep.github.io/tsql-sqlite3-browser/test-playground/public/
 
 First, click on "Choose File" (excuse the ugly UI).
+
 ![Click the "Choose File" button](doc/sqlite3-browser-choose-file.png)
 
 Then, select the file to open.
+
 ![Select the file to open](doc/sqlite3-browser-select-file-to-open.png)
 
 You should see a `SELECT * FROM sqlite_master;` query execute.
+
 ![The sqlite_master result set](doc/sqlite3-browser-sqlite-master-result-set.png)
 
 Finally, you can start executing SQL queries,
@@ -160,10 +163,17 @@ WHERE
 
 Just create an issue if you need help or support in any way.
 
-Need the latest patch data asap for a tournament happening this weekend? Create an issue.
-Patch data taking too long to update? Create an issue.
-Found a mistake in the data? Create an issue.
-Got data you would like to contribute? Create an issue.
+Need the latest patch data asap for a tournament happening this weekend?
+Create an issue.
+
+Patch data taking too long to update?
+Create an issue.
+
+Found a mistake in the data?
+Create an issue.
+
+Got data you would like to contribute?
+Create an issue.
 
 -----
 
@@ -199,8 +209,8 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
 
 You are free to share and adapt the material, as outlined in the license.
 
-Please provide attribution by providing a link to this repository.
+Please provide attribution by providing a link to [this repository](https://github.com/AnyhowStep/pump-out-sqlite3-dump).
 
-You may not use the data for commercial purposes; Pump players don't have money because they spent it all on Pump.
+You may not use the data for commercial purposes; Pump players don't have money because they spent it all on Pump 💸
 
 If you build upon the data set, it must be relased under the same license.
